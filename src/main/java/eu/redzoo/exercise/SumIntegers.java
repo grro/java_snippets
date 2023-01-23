@@ -2,6 +2,7 @@ package eu.redzoo.exercise;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 
 
 public class SumIntegers {
@@ -18,8 +19,7 @@ public class SumIntegers {
     }
 
     public static int sumLists(List<List<Integer>> listOfList) {
-        // .. to be implemented ...
+        // .. to be implemented (the value 18 will be returned)...
         return 0;
     }
-
 }
