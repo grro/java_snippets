@@ -8,7 +8,7 @@ public class SumIntegers {
 
     public static void main(String[] args) {
         // When you have a List of null values and Lists of Integers and null
-        // values, how would you calculate the sum of all integers using java 8 ?
+        // values, how would you calculate the sum of all integers?
 
         List<Integer> l1 = Arrays.asList(1,null,2,null,3);
         List<Integer> l2 = Arrays.asList(3,null,4,null,5);
